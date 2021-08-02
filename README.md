@@ -1,4 +1,8 @@
+## Depricated
+- use https://github.com/mwinb/VaporTs instead.
+
 # DocTS
+
 
 DocTs is a minimal framework built to support a simple and only slightly opinionated object oriented approach to implementing and unit testing Expressjs applications. DocTS is primarily focused on the use of two primary decorators. The Controller decorator, which provides a simple way to describe express controllers, their paths, and middleware. The Route decorator, which provides simple HTTP method declaration, extension to the Controller path, individual middleware, and optional error, response, and validation handling.
 
